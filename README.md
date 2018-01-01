@@ -1,5 +1,4 @@
 # MachineLearning_10-601_CMU
-
 This repo contains all the assignment done as a part of coursework at CMU(Course 10-601 Spring'16 semester).
 All the assignment are written in Matlab and are standalone projects. All assignments contain the detailed report of what the project is about. 
 
